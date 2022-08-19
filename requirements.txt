@@ -1,0 +1,2 @@
+requests==2.25.1
+notify==0.3.1
