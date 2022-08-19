@@ -1,3 +1,2 @@
 requests==2.25.1
-https://github.com/RaZOr519/Crypto_Notification/blob/main/notify-0.3.1.zip
-notify-run==0.0.15
+pushbullet.py==0.9.1
