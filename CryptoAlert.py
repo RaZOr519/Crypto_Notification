@@ -12,10 +12,8 @@ pb = PushBullet(access_token)
 key = "https://api.binance.com/api/v3/ticker/price?symbol=ETHUSDT"
 push =pb.push_note("CryptoBot","Bot Started")
 #Change price here
-print("Enter top value")
-top = int(input())
-print("Enter bottom value")
-bottom = int(input())
+top = 2000
+bottom = 1700
 
 while True:  
 	# requesting data from url
