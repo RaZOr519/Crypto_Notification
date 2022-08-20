@@ -1,2 +1,5 @@
 requests==2.25.1
 pushbullet.py==0.9.1
+Telethon==1.24.0
+telegram-send==0.34
+configparser==5.2.0
